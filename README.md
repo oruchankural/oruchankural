@@ -4,10 +4,17 @@
   </a>
 </p>
 
-I'm prepared to pick up new skills and adapt 
-to a dynamic cloud environment. Innovative 
-and creative to create special platforms to 
-boost brand and business growth.
+<hr/>
+
+<strong>
+  I'm prepared to pick up new skills and adapt 
+  to a dynamic cloud environment. Innovative 
+  and creative to create special platforms to 
+  boost brand and business growth.
+
+</strong>
+
+
 
 ### Tech Stacks
 
