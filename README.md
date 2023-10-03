@@ -23,12 +23,3 @@ boost brand and business growth.
   </a>
 </p>
 
-
-
-
-<p align="center" >  
-  <a href="[![Oruç Han Kural's GitHub stats](https://github-readme-stats.vercel.app/api?username=oruchankural)](https://github.com/anuraghazra/github-readme-stats)"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=oruchankural"/>
-  </a>
-</p>
-
